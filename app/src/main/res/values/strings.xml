@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">App_Test</string>
+    //text button
+    <string name="app_name">Online Test</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Sign in</string>
+    <string name="title_forgot_pass">Forgot password</string>
+
+    //text hint of text input layout
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone number</string>
+    <string name="date_of_birth">Date of birth</string>
 </resources>
